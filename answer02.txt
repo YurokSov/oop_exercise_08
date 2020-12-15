@@ -1,0 +1,9 @@
+1. triangle
+2. square
+3. rectangle
+	WAITING
+triangle: [x: 1 y: 1] [x: 1 y: 1] [x: 1 y: 1]
+square: [x: 2 y: 2] [x: 2 y: 2]
+rectangle: [x: 3 y: 3] [x: 3 y: 3]
+	WAITING
+Goodbye!
